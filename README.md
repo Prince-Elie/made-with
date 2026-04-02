@@ -2,7 +2,11 @@
 
 Une collection de 60+ effets d'animation et de scroll inspirants, démontrant les techniques fondamentales de GSAP.
 
-## 🎯 À propos
+## � Démo
+
+**[Voir la démo en ligne](https://made-with.vercel.app)** - Hébergée sur Vercel
+
+## �🎯 À propos
 
 Ce projet showcase les possibilités de GSAP (GreenSock Animation Platform) avec des exemples pratiques incluant :
 - Animations déclenchées au scroll
