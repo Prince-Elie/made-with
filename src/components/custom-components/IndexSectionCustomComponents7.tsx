@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const IndexSectionCustomComponents7: React.FC = () => {
     return (
@@ -6,13 +7,13 @@ const IndexSectionCustomComponents7: React.FC = () => {
   <div className="max-w-7xl mx-auto">
     <div className="flex flex-col md:flex-row justify-between items-center gap-8">
       <div className="text-center md:text-left">
-        <a href="#" className="font-heading text-3xl">Made With Gsap</a>
+        <Link href="/" className="font-heading text-3xl">Made With Gsap</Link>
         <p className="text-zinc-500 text-sm mt-2">© 2026 All rights reserved</p>
       </div>
       <div className="flex items-center gap-8 text-sm text-zinc-400">
-        <a href="#" className="hover:text-white transition-colors">Collection</a>
-        <a href="#" className="hover:text-white transition-colors">Pricing</a>
-        <a href="#" className="hover:text-white transition-colors">Blog</a>
+        <Link href="/collection" className="hover:text-white transition-colors">Collection</Link>
+        <Link href="/pricing" className="hover:text-white transition-colors">Pricing</Link>
+        <Link href="/blog" className="hover:text-white transition-colors">Blog</Link>
         <a href="#" className="hover:text-white transition-colors">Log in</a>
       </div>
       <div className="flex items-center gap-4">
@@ -30,8 +31,6 @@ const IndexSectionCustomComponents7: React.FC = () => {
     </div>
   </div>
 </footer>
-
-
     );
 };
 
