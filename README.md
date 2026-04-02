@@ -1,6 +1,6 @@
 # Made With GSAP
 
-Une collection de 60+ effets d'animation et de scroll inspirants, démontrant les techniques fondamentales de GSAP.
+Une page de sass de collection d'effets d'animation et de scroll inspirants.
 
 ## � Démo
 
@@ -8,12 +8,7 @@ Une collection de 60+ effets d'animation et de scroll inspirants, démontrant le
 
 ## �🎯 À propos
 
-Ce projet showcase les possibilités de GSAP (GreenSock Animation Platform) avec des exemples pratiques incluant :
-- Animations déclenchées au scroll
-- Effet parallaxe
-- Éléments sticky
-- Mouvements au drag
-- Et bien d'autres...
+Ce projet showcase les possibilités de GSAP
 
 ## 🛠️ Technologies
 
@@ -21,7 +16,6 @@ Ce projet showcase les possibilités de GSAP (GreenSock Animation Platform) avec
 - **React 19** - Bibliothèque UI
 - **Tailwind CSS** - Styling
 - **TypeScript** - Typage statique
-- **ApexCharts** - Graphiques
 
 ## 📦 Installation
 
